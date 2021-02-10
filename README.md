@@ -1,5 +1,5 @@
 ---
-title: Google Cloud Playform Terraform Examples
+title: Google Cloud Platform Terraform Examples
 description: Various Terraform examples for Google Cloud, focusing on setup and integrations with Google Cloud VMware Engine (GCVE)
 author: shamsway
 tags: Networking, Automation, vSphere
