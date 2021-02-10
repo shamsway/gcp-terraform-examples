@@ -1,11 +1,3 @@
----
-title: Google Cloud Platform Terraform Examples
-description: Various Terraform examples for Google Cloud, focusing on setup and integrations with Google Cloud VMware Engine (GCVE)
-author: shamsway
-tags: Networking, Automation, vSphere
-date_published: 2021-02-09
----
-
 This repo contains example Terraform code for Google Cloud, focusing on setup and integrations with Google Cloud VMware Engine (GCVE). Each example will be in a sub-directory, and will have an associated blog post at [https://networkbrouhaha.com](https://networkbrouhaha.com).
 
 ## Before you begin
