@@ -14,3 +14,4 @@ It will be helpful to have some basic knowledge of GitHub, [Terraform](https://w
 
 * `gcve-vpc-peering` - Creates a VPC network, subnet, and additional configuration that is ready to peer with a Google Cloud VMware Engine (GCVE) environment
 * `gcve-bastion-iap` - Creates a Windows 2019 bastion host for managing your GCVE environment, accessible via [IAP](https://github.com/shamsway/gcp-terraform-examples/tree/main/gcve-vpc-peering).
+* `gcve-hcx` - Configures an HCX site pairing, service mesh, and related components between an on-prem data center and a Google Cloud VMware Engine (GCVE) SDDC
